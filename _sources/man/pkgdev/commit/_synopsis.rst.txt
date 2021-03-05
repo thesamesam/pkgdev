@@ -1,0 +1,4 @@
+Synopsis
+--------
+
+pkgdev commit [-h] [--debug] [-q] [-v] [--color BOOLEAN] [-m MESSAGE] [-M [BOOLEAN]] [-n] [-s] [--ignore-failures] [-u | -a]

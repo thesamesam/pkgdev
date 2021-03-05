@@ -1,0 +1,44 @@
+Optional Arguments
+------------------
+
+-m MESSAGE, --message MESSAGE     
+                                  specify commit message
+
+-M [BOOLEAN], --mangle [BOOLEAN]  
+                                  perform file mangling
+
+-n, --dry-run                     
+                                  pretend to create commit
+
+-s, --scan                        
+                                  run pkgcheck against staged changes
+
+--ignore-failures                 
+                                  forcibly create commit with QA errors
+
+-u, --update                      
+                                  stage all changed files
+
+-a, --all                         
+                                  stage all changed/new/removed files
+
+Base Options
+------------
+
+-h, --help       
+                 Show this help message and exit. To get more
+                 information see the related man page.
+
+--debug          
+                 Enable debug checks and show verbose debug output.
+
+-q, --quiet      
+                 Suppress non-error, informational messages.
+
+-v, --verbose    
+                 Increase the verbosity of various output.
+
+--color BOOLEAN  
+                 Toggle colored output support. This can be used to forcibly
+                 enable color support when piping output or other sitations
+                 where stdout is not a tty.

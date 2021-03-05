@@ -1,0 +1,3 @@
+.. include:: commit.rst
+.. include:: manifest.rst
+.. include:: push.rst

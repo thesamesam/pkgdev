@@ -1,0 +1,4 @@
+Description
+===========
+
+pkgdev provides a collection of tools for Gentoo development.
